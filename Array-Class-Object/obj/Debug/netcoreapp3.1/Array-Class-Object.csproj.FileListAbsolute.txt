@@ -1,0 +1,14 @@
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.exe
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.deps.json
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.runtimeconfig.dev.json
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.dll
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\bin\Debug\netcoreapp3.1\Array-Class-Object.pdb
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.dll
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.pdb
+C:\Users\novra\OneDrive\Desktop\Array-Class-Object\Array-Class-Object\obj\Debug\netcoreapp3.1\Array-Class-Object.genruntimeconfig.cache
